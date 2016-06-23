@@ -1,0 +1,44 @@
+2016-06-23T01:14:25.706Z - normal: Load ~/.CocosCreator/settings.json
+2016-06-23T01:14:25.711Z - normal: checking language setting...
+2016-06-23T01:14:25.711Z - normal: Language: zh
+2016-06-23T01:14:25.735Z - success: protocol editor-framework registerred
+2016-06-23T01:14:25.736Z - success: protocol app registerred
+2016-06-23T01:14:25.736Z - success: protocol packages registerred
+2016-06-23T01:14:25.736Z - success: protocol unpack registerred
+2016-06-23T01:14:25.881Z - normal: connected!
+2016-06-23T01:14:25.883Z - normal: Check project /Users/jiao/Desktop/Cocos2d/start_project
+2016-06-23T01:14:25.887Z - normal: Initializing Cocos Creator Editor
+2016-06-23T01:14:26.140Z - normal: Initializing Cocos2d
+2016-06-23T01:14:26.272Z - normal: Initializing Asset Database
+2016-06-23T01:14:26.297Z - success: protocol uuid registerred
+2016-06-23T01:14:26.297Z - success: protocol uuid registerred
+2016-06-23T01:14:26.297Z - success: protocol thumbnail registerred
+2016-06-23T01:14:26.297Z - normal: Loading editor/builtin packages
+2016-06-23T01:14:26.401Z - success: assets loaded
+2016-06-23T01:14:26.405Z - success: builder loaded
+2016-06-23T01:14:26.410Z - success: hierarchy loaded
+2016-06-23T01:14:26.415Z - success: inspector loaded
+2016-06-23T01:14:26.417Z - success: keystore loaded
+2016-06-23T01:14:26.422Z - success: node-library loaded
+2016-06-23T01:14:26.426Z - success: preferences loaded
+2016-06-23T01:14:26.443Z - success: project-importer loaded
+2016-06-23T01:14:26.447Z - success: project-settings loaded
+2016-06-23T01:14:26.452Z - success: ui-kit loaded
+2016-06-23T01:14:26.457Z - success: ui-grid loaded
+2016-06-23T01:14:26.463Z - success: scene loaded
+2016-06-23T01:14:26.464Z - success: sprite-editor loaded
+2016-06-23T01:14:26.472Z - success: timeline loaded
+2016-06-23T01:14:26.475Z - success: ui-kit-extra loaded
+2016-06-23T01:14:26.476Z - normal: Loading builtin packages
+2016-06-23T01:14:26.480Z - success: asset-db-debugger loaded
+2016-06-23T01:14:26.482Z - success: code-editor loaded
+2016-06-23T01:14:26.483Z - success: color-picker loaded
+2016-06-23T01:14:26.488Z - success: console loaded
+2016-06-23T01:14:26.492Z - success: package-manager loaded
+2016-06-23T01:14:26.497Z - success: tester loaded
+2016-06-23T01:14:26.501Z - success: ui-tree loaded
+2016-06-23T01:14:26.538Z - normal: Initializing project /Users/jiao/Desktop/Cocos2d/start_project
+2016-06-23T01:14:26.540Z - normal: Loading packages
+2016-06-23T01:14:26.544Z - normal: Run Application
+2016-06-23T01:14:26.868Z - success: preview server running at http://localhost:7456
+2016-06-23T01:14:30.447Z - normal: 1.1.0
